@@ -4,8 +4,8 @@ pandas
 scikit-learn
 seaborn>=0.11.0
 Django>=3.2
-channels
-channels_redis
+channels==4.0.0
+channels_redis==4.1.0
 daphne
 django-cors-headers
 pytest
